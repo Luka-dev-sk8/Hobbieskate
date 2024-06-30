@@ -1,0 +1,82 @@
+header{
+    background-color: rgba(0, 0, 0, 0.63);
+    text-align: center;
+    height: 10vh;
+    width: 100vw;
+    background-size: cover; 
+    
+}
+p{
+    color: aliceblue;
+    text-align: center;
+}
+.infos{
+    background-color: rgb(6, 27, 27);
+    border-radius: 4vh;
+    text-align: center;
+    font-size: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+    border: 1% double black;
+    
+    
+}
+ul{
+    list-style: none;
+}
+
+h3{
+    text-align: center;
+    background-color: darkblue;
+    border-radius: 2vh;
+    color: blanchedalmond;
+}
+
+body{
+    text-transform: capitalize;
+    background-image: url(../img/SL_0210121_40570_75.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 7vh;
+    font-style: normal;
+    
+}
+.links{
+    height: 20%;
+    width: 95%;
+    background-color: rgb(12, 15, 10);
+    border: 10px ridge rgba(18, 99, 10, 0.801);;
+
+}
+a{
+    height: 6%;
+    color: rgb(75, 124, 197);
+    text-decoration: unset;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#titulo{
+    color: burlywood;
+    width: 100%;
+}
+footer{
+    text-align: center;
+    width: 100%;
+}
+img{
+    left: 50%;
+   
+    height: 150px;
+    border-radius: 20px;
+}
+img:hover{
+    
+    height: 200px;
+    transition: 1s;
+}
